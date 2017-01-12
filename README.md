@@ -4,6 +4,7 @@
 
 - [官方文档](#官方文档)
 - [新闻报道](#新闻报道)
+- [社区](#社区)
 - [工具](#工具)
 - [插件](#插件)
 - [分析](#分析)
@@ -16,11 +17,24 @@
 
 ## 加群交流
 
+### QQ群
+
+群号：593495800
+
+<a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=c115f1cc90f22065ebc7ea9c0cf8d292369d28b3307bc592ef5dbbcec28c56f3"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="微信小程序" title="微信小程序"></a>
+
+### 微信群
+
 现在最新群是“微信小程序交流16号群”，这个群并不是第 16 个群，而是第 6 个群，群号依次是 0，1，2，4，8，16。
 
 由于微信群的限制，超过 100 人就不能扫码加群。所以可以先关注我公众号，然后发送 `微信小程序`，按照提示一步一步加群。
 
 ![微信小程序交流区群](https://camo.githubusercontent.com/4dfb439531d42a47d29f4153e3d4b7268802bb9a/687474703a2f2f6a7573746a617661632e636f6d2f6173736574732f696d616765732f77656978696e2d6a7573746a617661632e6a7067)
+
+## 置顶
+
+- [小程序开发者社区](http://wxappfans.com) :100:
+- [wepy：组件化的小程序开发框架](https://github.com/wepyjs/wepy) :100:
 
 ## 官方文档
 
@@ -30,25 +44,37 @@
 
 ## 新闻报道
 
-- [微信正式开放内测“小程序”，不开发APP的日子真的来了？(36氪)](http://36kr.com/p/5053349.html)
-- [关于微信小程序（应用号），我能透露的几个细节(可能吧)](https://kenengba.com/post/3515.html)
-- [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(虎嗅网)](https://www.huxiu.com/article/164700.html)
+- [微信正式开放内测“小程序”，不开发APP的日子真的来了？(36氪 • 缪定纯 • 2016-09-22 09:05)](https://36kr.com/p/5053349.html)
+- [关于微信小程序（应用号），我能透露的几个细节(可能吧 • Jason Ng • 2016-9-22)](https://kenengba.com/post/3515.html)
+- [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(虎嗅网 • 三节课 • 2016-9-22)](https://www.huxiu.com/article/164700.html)
+- 为什么我反对微信小程序(虎嗅网 • SeedHeart • 2016-11-23) 前两天发的，貌似有些版权问题，不再提供链接
+
+## 社区
+
+- [小程序开发者社区](http://wxappfans.com)
+- [WXOPEN Club | 微信小程序专业社区](http://wxopen.club/)
+- [wxapp-union | 微信小程序联盟](http://www.wxapp-union.com/)
+- [larkapp | 白鹭青雀社区](http://bbs.larkapp.com/)
 
 ## 工具
 
-- [微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)
+- [wepy 一个支持组件化的小程序开发框架](https://github.com/wepyjs/wepy)
+- ~~[微信小程序 (应用号) 微信 web 开发者工具破解版(DiyCode)](http://www.diycode.cc/topics/308)~~
 - [微信小程序配置及目录在线生成工具](https://weapptool.com)
-- [IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)
+- ~~[IDE + 破解 + Demo(gavinkwoe/weapp-ide-crack)](https://github.com/gavinkwoe/weapp-ide-crack)~~
 - [Egret Wing 3.2.x 支持微信小程序实时预览的IDE)](http://developer.egret.com/cn/github/egret-docs/Wing/update/update320/index.html)
 - [Labrador 支持ES6/7的微信小程序组件化开发框架](https://github.com/maichong/labrador)
 - [WEPT 一个微信小程序实时运行环境](https://github.com/chemzqm/wept)
 - [wxml-parser JavaScript WXML parser](https://github.com/seanlong/wxml-parser) 以及[在线页面demo](https://seanlong.github.io/wxapp-page-editor)
+- [Px转Rpx在线工具](http://allanguys.github.io/px2rpx)
+- [微信小程序云端增强 SDK XpmJS ](https://github.com/xpmjs/xpmjs)
 
 ## 插件
 
 - [vim 插件(chemzqm/wxapp.vim)](https://github.com/chemzqm/wxapp.vim)
 - [sublime text 2&3 snippet(Abbotton/weapp-snippet-for-sublime-text-2-3)](https://github.com/Abbotton/weapp-snippet-for-sublime-text-2-3)
 - [IntelliJ IDEA插件，注入方法](https://github.com/lypeer/Matchmaker)
+- [webstorm 插件（代码提示）](https://github.com/qbright/wechatCode-complete)
 
 ## 文档
 
@@ -106,6 +132,7 @@
 
 ## 视频教程
 
+- [免费视频教程 - WXOPEN.Club 出品微信小程序开发视频教程（持续更新中...）](http://wxopen.club/topic/582d4999745f85100cd13a65)
 - [视频 - 全网首个微信小程序开发视频教程](http://www.howzhi.com/course/15035/)
 - [视频 - 微信小程序开发实战第一季(CSDN)](http://edu.csdn.net/course/detail/3011)
 - [视频 - 微信小程序开发实战第二季(CSDN)](http://edu.csdn.net/course/detail/3045)
@@ -132,6 +159,7 @@
 
 ## 代码
 
+- [微信小程序官方Demo(Hao-Wu/WeApp-Demo)](https://github.com/Hao-Wu/WeApp-Demo)
 - [微信小应用示例代码(phodal/weapp-quick)](https://github.com/phodal/weapp-quick)
 - [微信小应用地图定位demo(giscafer/wechat-weapp-mapdemo)](https://github.com/giscafer/wechat-weapp-mapdemo)
 - [微信小应用- 掘金主页信息流(hilongjw/weapp-gold)](https://github.com/hilongjw/weapp-gold)
@@ -146,6 +174,7 @@
 - [微信小程序-公众号热门文章信息流(hijiangtao/weapp-newsapp)](https://github.com/hijiangtao/weapp-newsapp)
 - [微信小程序版Gank客户端(lypeer/wechat-weapp-gank)](https://github.com/lypeer/wechat-weapp-gank)
 - [微信小程序集成Redux实现的Todo list(charleyw/wechat-weapp-redux-todos)](https://github.com/charleyw/wechat-weapp-redux-todos)
+- [微信小程序集成 LeanCloud 实现的 Todo list(leancloud/leantodo-weapp)](https://github.com/leancloud/leantodo-weapp)
 - [微信小程序-番茄时钟(kraaas/timer)](https://github.com/kraaas/timer)
 - [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
 - [微信小程序版聊天室(ericzyh/wechat-chat)](https://github.com/ericzyh/wechat-chat)
@@ -170,8 +199,22 @@
 - [微信小程序-美女模特(BeautifulGirl)](https://github.com/liumulin614/BeautifulGirl)
 - [微信小程序 - 知乎仿写(RebeccaHanjw/weapp-wechat-zhihu)](https://github.com/RebeccaHanjw/weapp-wechat-zhihu)
 - [微信小程序 - 面包旅行(romoo/weapp-demo-breadtrip)](https://github.com/romoo/weapp-demo-breadtrip)
+- [微信小程序-淘票票(weapp-film)](https://github.com/luuman/weapp-film)
+- [微信小程序-仿ONE(ahonn/weapp-one)](https://github.com/ahonn/weapp-one)
+- [微信小程序-新闻阅读器(vace/wechatapp-news-reader)](https://github.com/vace/wechatapp-news-reader)
+- [微信小程序 - 百思不得姐(Symous/WechatApp-BaisiSister)](https://github.com/Symous/WechatApp-BaisiSister)
+- [微信小程序 - We重邮(lanshan-studio/wecqupt)](https://github.com/lanshan-studio/wecqupt)
+- [微信小程序 - IOS计算器](https://github.com/DengKe1994/weapp-calculator/tree/master)
+- [微信小程序 - github简历(monkindey/wx-github)](https://github.com/monkindey/wx-github) 
+- [微信小程序-程序员老黄历(xujinyang/CoderCalendar-WeApp)](https://github.com/xujinyang/CoderCalendar-WeApp)
 
 ## 轮子
 
+- [socket.io 风格的 websocket 类库](https://github.com/fanweixiao/wxapp-socket-io)
 - [微信小程序倒计时组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483670&idx=1&sn=5aa5da2fff2415e9b19f848712ddf480&chksm=e9789904de0f1012159332fda391c3eec0bb3d1c0db2c34ab557208ff0c04806a40d00e844fe&mpshare=1&scene=1&srcid=1007cWRXdd0ug9oAceCsIWp6#rd)
 - [微信小程序下拉筛选组件(微信公众号)](http://mp.weixin.qq.com/s?__biz=MzI0MjYwMjM2NQ==&mid=2247483674&idx=1&sn=2bf242b391144f3f0e57e0ed0ebce36f&chksm=e9789908de0f101ee23f7c125c9a48c4f9ba3f242a3b1c89b05ca5b9e8e68262c02b47fe3d12&mpshare=1&scene=1&srcid=1008NvO9oI8wWGp4XBxlpLeL#rd)
+- [w3c 标准 API polyfill](https://github.com/leancloud/weapp-polyfill)
+- [WeToast——微信小程序toast增强插件](https://github.com/kiinlam/wetoast)
+- [wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析](https://github.com/icindy/wxParse)
+- [wx-alphabetical-listview带字母滑动的列表](https://github.com/zhongjie-chen/wx-alphabetical-listview)
+- [wx-drawer模仿QQ6.0侧滑菜单](https://github.com/zhongjie-chen/wx-drawer)
